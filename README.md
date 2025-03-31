@@ -409,7 +409,7 @@ Forking allows you to experiment with changes before submitting a pull request (
 
 Ideal for fixing bugs, adding features, or improving documentation in public projects.
 
-2. Creating Personal Modifications
+2. Creating Personal Modifications=
 If you want to customize an open-source project for personal use without affecting the original, forking is the best option.
 
 3. Archiving and Experimentation
